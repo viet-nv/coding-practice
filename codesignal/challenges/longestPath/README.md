@@ -1,4 +1,4 @@
-link: https://app.codesignal.com/challenge/W9MciLfzQn6MDEG4D
+Link: https://app.codesignal.com/challenge/W9MciLfzQn6MDEG4D
 
 # Problems
 Suppose we represent our file system as a string. For example, the string "user\n\tpictures\n\tdocuments\n\t\tnotes.txt" represents:
